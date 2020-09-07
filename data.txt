@@ -1,0 +1,3 @@
+Name: Lucie
+Age: 30
+Favorite Color: blue
